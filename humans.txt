@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Nathan Jones -- Entire Site -- nathan@util.xyz
+    Nathan -- Entire Site -- nathan@util.xyz
 
 # THANKS
 
-    MoonMoon for being a great streamer
+    MoonMoon_OW for being a great streamer
 
 # TECHNOLOGY COLOPHON
 
