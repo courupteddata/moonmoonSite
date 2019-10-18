@@ -104,14 +104,17 @@ textarea {
      margin-bottom: 30px;
    }
      .tile .title {
-       margin-top: 0px;
+       margin-top: 0;
      }
 
      .navbar-brand {
        float: none;
      }
 
-
+    .main-text {
+        align-self: center;
+        width: 75%;
+    }
 
 
 
